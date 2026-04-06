@@ -1,0 +1,34 @@
+cern-site/
+┣ about/
+┃ ┣ people/
+┃ ┃ ┗ people.html
+┃ ┣ executive-summary.html
+┃ ┗ policy.html
+┣ assets/
+┃ ┗ css/
+┃   ┣ cernsite-base.css
+┃   ┗ cernsite-index.css
+┣ hypertext/
+┃ ┣ hypermedia.html
+┃ ┗ README-distributed-code.html
+┣ mark-up/
+┃ ┗ html/
+┃   ┣ html-formatting-example.html
+┃   ┗ html-tags.html
+┣ software/
+┃ ┣ line-mode/
+┃ ┃ ┗ linemode-browser.html
+┃ ┣ daemon/
+┃ ┃ ┗ w3-server-overview.html
+┃ ┗ w3-software.html
+┣ technical/
+┃ ┣ addressing/
+┃ ┃ ┗ syntax-addressing/
+┃ ┃   ┗ notation.html
+┃ ┗ technical-details.html
+┣ www-project/
+┃ ┣ design-issues/
+┃ ┃ ┗ topology.html
+┃ ┣ www-project-history.html
+┃ ┗ proposal.html
+┗ index.html
